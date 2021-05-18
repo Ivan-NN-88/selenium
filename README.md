@@ -1,3 +1,3 @@
 # selenium
-This is the code for the course "Test automation for selenium, python".</br>
-Это код курса «Автоматизация тестирования для selenium, python».
+--------------------------------
+Это репозиторий для хранения домашних работ по курсу автоматизация тестирования на степике - https://stepik.org/course/575/
